@@ -1,6 +1,10 @@
 # compiler-construction-lab
 Compiler Construction Lab
 
+# Topics
+* Lab1: Lexical Analyzer
+* Lab2: Parser
+
 # Setup
 **Requirements**
 ```
