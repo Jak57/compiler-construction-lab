@@ -11,6 +11,12 @@ Compiler Construction Lab
 flex-2.5.4a-1
 bison-2.4.1
 ```
+**Running Lexer**
+```
+flex filename.l
+gcc lex.yy.c
+.\a.exe
+```
 
 **Running Parser**
 ```
