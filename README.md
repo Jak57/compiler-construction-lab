@@ -25,3 +25,7 @@ flex filename.l
 gcc pp.tab.c lex.yy.c
 .\a.exe
 ```
+
+# Resources for Theory
+# Chapter 07: Code Generation
+* Register allocation by Graph Coloring https://www.youtube.com/watch?v=1niVBCYwIXg&ab_channel=MonalisaCS
