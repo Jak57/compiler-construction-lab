@@ -27,5 +27,5 @@ gcc pp.tab.c lex.yy.c
 ```
 
 # Resources for Theory
-# Chapter 07: Code Generation
-* Register allocation by Graph Coloring https://www.youtube.com/watch?v=1niVBCYwIXg&ab_channel=MonalisaCS
+* Youtube playlist: https://www.youtube.com/watch?v=ICP73rTPaw0&list=PLCm_D3-Bsj46nm1yg4cnGJPe-fOPyOdOd&ab_channel=Er%27sZone
+
