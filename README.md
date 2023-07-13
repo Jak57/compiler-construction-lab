@@ -27,6 +27,7 @@ gcc pp.tab.c lex.yy.c
 ```
 
 # Resources for Theory
-* Youtube playlist: https://www.youtube.com/watch?v=ICP73rTPaw0&list=PLCm_D3-Bsj46nm1yg4cnGJPe-fOPyOdOd&ab_channel=Er%27sZone
+* https://www.youtube.com/watch?v=ICP73rTPaw0&list=PLCm_D3-Bsj46nm1yg4cnGJPe-fOPyOdOd&ab_channel=Er%27sZone
 * https://www.youtube.com/watch?v=32dX-HPIyRk&list=PLgH5QX0i9K3oWTwTgILA7v9oysoDgkJDg&ab_channel=AnisulIslam
+* https://www.youtube.com/watch?v=XUsw5igq4DM&list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc&ab_channel=GateSmashers
 
