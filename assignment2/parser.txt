@@ -1,0 +1,2 @@
+Design a Parser:
+Input to the parser be a random line of code and output will be a syntax error or not.
