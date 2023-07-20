@@ -1,0 +1,18 @@
+Question:
+---------------
+Design a lexical analyzer of the code below using flex which will generate all tokens in an output file or output terminal.
+
+Code:
+----------------
+void main()
+{
+    int x, i = 10;
+    float x;
+    printf("Input a number:");
+    scanf("%d", &x);
+    while(i > 0) {
+        x = x + i^2;
+        i--;
+    }
+    getch();
+}
